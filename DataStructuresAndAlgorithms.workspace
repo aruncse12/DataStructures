@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="DataStructuresAndAlgorithms" Database="" Version="10.0.0">
+  <Project Name="Dijsktra" Path="Dijsktra/Dijsktra.project" Active="No"/>
+  <Project Name="MinSpanningTree" Path="MinSpanningTree/MinSpanningTree.project" Active="No"/>
+  <Project Name="RadixSort" Path="RadixSort/RadixSort.project" Active="No"/>
+  <Project Name="ZAlgorithm" Path="ZAlgorithm/ZAlgorithm.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Dijsktra" ConfigName="Debug"/>
+      <Project Name="MinSpanningTree" ConfigName="Debug"/>
+      <Project Name="RadixSort" ConfigName="Debug"/>
+      <Project Name="ZAlgorithm" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Dijsktra" ConfigName="Release"/>
+      <Project Name="MinSpanningTree" ConfigName="Release"/>
+      <Project Name="RadixSort" ConfigName="Release"/>
+      <Project Name="ZAlgorithm" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
