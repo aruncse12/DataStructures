@@ -4,7 +4,9 @@
   <Project Name="MinSpanningTree" Path="MinSpanningTree/MinSpanningTree.project" Active="No"/>
   <Project Name="RadixSort" Path="RadixSort/RadixSort.project" Active="No"/>
   <Project Name="ZAlgorithm" Path="ZAlgorithm/ZAlgorithm.project" Active="No"/>
-  <Project Name="GraphToTree" Path="GraphToTree/GraphToTree.project" Active="Yes"/>
+  <Project Name="GraphToTree" Path="GraphToTree/GraphToTree.project" Active="No"/>
+  <Project Name="BFS" Path="BFS/BFS.project" Active="No"/>
+  <Project Name="DFS" Path="DFS/DFS.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -13,6 +15,8 @@
       <Project Name="RadixSort" ConfigName="Debug"/>
       <Project Name="ZAlgorithm" ConfigName="Debug"/>
       <Project Name="GraphToTree" ConfigName="Debug"/>
+      <Project Name="BFS" ConfigName="Debug"/>
+      <Project Name="DFS" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -21,6 +25,8 @@
       <Project Name="RadixSort" ConfigName="Release"/>
       <Project Name="ZAlgorithm" ConfigName="Release"/>
       <Project Name="GraphToTree" ConfigName="Release"/>
+      <Project Name="BFS" ConfigName="Release"/>
+      <Project Name="DFS" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
