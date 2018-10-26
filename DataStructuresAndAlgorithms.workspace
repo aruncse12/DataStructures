@@ -6,7 +6,9 @@
   <Project Name="ZAlgorithm" Path="ZAlgorithm/ZAlgorithm.project" Active="No"/>
   <Project Name="GraphToTree" Path="GraphToTree/GraphToTree.project" Active="No"/>
   <Project Name="BFS" Path="BFS/BFS.project" Active="No"/>
-  <Project Name="DFS" Path="DFS/DFS.project" Active="Yes"/>
+  <Project Name="DFS" Path="DFS/DFS.project" Active="No"/>
+  <Project Name="qSort" Path="qSort/qSort.project" Active="No"/>
+  <Project Name="MinHeap" Path="MinHeap/MinHeap.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -17,6 +19,8 @@
       <Project Name="GraphToTree" ConfigName="Debug"/>
       <Project Name="BFS" ConfigName="Debug"/>
       <Project Name="DFS" ConfigName="Debug"/>
+      <Project Name="qSort" ConfigName="Debug"/>
+      <Project Name="MinHeap" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -27,6 +31,8 @@
       <Project Name="GraphToTree" ConfigName="Release"/>
       <Project Name="BFS" ConfigName="Release"/>
       <Project Name="DFS" ConfigName="Release"/>
+      <Project Name="qSort" ConfigName="Release"/>
+      <Project Name="MinHeap" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
